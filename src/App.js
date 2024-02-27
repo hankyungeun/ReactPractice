@@ -1,10 +1,10 @@
 import './App.css';
-import Game from './pages/Game';
-
+import Counter from './pages/Counter';
 function App() {
   return (
     <div className="App">
-      <Game />
+      {/* <HobbyList />\ */}
+      <Counter />
     </div>
   );
 }
